@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Model map files
+Content/LevelPrototyping/*
+Content/__ExternalObjects__/LevelPrototyping/*
+Content/__ExternalActors__/LevelPrototyping/*
